@@ -49,6 +49,8 @@ The Observer Pattern facilitates the subscription feature. The `DiscountSubject`
 
 The Adapter Pattern is applied in the `PaymentAdapter` to create a uniform interface for various payment methods. This allows the system to support multiple payment gateways without modifying existing code.
 
+![UML Diagram](UML.png)
+
 ## Conclusion
 
 The Zaida Dress Online Dress Shop project effectively utilizes a variety of design patterns to create a modular, extensible, and maintainable system. Each pattern serves a specific purpose, contributing to the overall efficiency and flexibility of the application.
