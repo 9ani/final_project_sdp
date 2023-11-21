@@ -49,6 +49,9 @@ The Observer Pattern facilitates the subscription feature. The `DiscountSubject`
 
 The Adapter Pattern is applied in the `PaymentAdapter` to create a uniform interface for various payment methods. This allows the system to support multiple payment gateways without modifying existing code.
 
+
+## UML Diagram
+
 ![UML Diagram](UML.png)
 
 ## Conclusion
